@@ -1,7 +1,7 @@
 /**
  * _pow_recursion - a function that returns the power of @x by @y x^y
  *
- * Description: This based on speed is faster - complexity of O(logn) 
+ * Description: This based on speed is faster - complexity of O(logn)
  * @x: integer x
  * @y: integer y
  *
