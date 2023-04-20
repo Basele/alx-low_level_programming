@@ -3,7 +3,7 @@
 #include <stdio.h>
 
 /**
- * print_all - a function that prints strings, followed by a new line
+ * print_strings - a function that prints strings, followed by a new line
  *
  * @separator: pointer to a constant separator
  * @n: start of input variables
@@ -11,7 +11,7 @@
  * Return: Void
 */
 
-void print_all(const char *separator, const unsigned int n, ...)
+void print_strings(const char *separator, const unsigned int n, ...)
 {
 	va_list ap;
 	unsigned int index;
